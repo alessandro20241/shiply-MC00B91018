@@ -1,0 +1,44 @@
+{
+  "MC00B91018": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Alex Marie Michel Buffa, 278 Route de Bardasse, 83310 Grimaud, Frankreich",
+    "price": "9.900 €",
+    "description": "Hersteller: HONDA <br>Typ: CBR 1000 RR-R SP <br> Fahrgestelnummer: JH2SC82B5LK000203 <br> Erstzulassung: 04/2021 <br> TÜV: 04/2027 <br> KM laut Vorbesitzer: 5.723 km <br>Leistung: 160 kW (217 PS) <br> Hubraum: 999 cm³ <br> Farbe: Rot <br> Viele Extras. HRP Teilen komplett umgebaut <br> Alle Originalteile vorhanden. <br> Fahrzeug ist makellos. <br> Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall. <br> Bezitser 1 <br> Deutsch Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Alex Marie Michel Buffa<br> 278 Route de Bardasse<br> 83310 Grimaud<br> Frankreich
+<br>Telefon: +33 0623731903",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "09-09-2026",
+    "deliveryDate": "21-09-2026",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "278 Route de Bardasse",
+      "postal_code": "83310",
+      "city": "Grimaud",
+      "country": "Frankreich"
+    }
+  }
+}
