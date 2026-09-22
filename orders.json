@@ -1,7 +1,7 @@
 {
   "MC00B91018": {
-    "status": "Versandvorbereitung",
-    "statusClass": "→ 65% Shiply blue bar",
+    "status": "Auf dem Transportweg",
+    "statusClass": "→ 85% green bar",
     "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
     "receiver": "Alex Marie Michel Buffa, 278 Route de Bardasse, 83310 Grimaud, Frankreich",
     "price": "9.900 €",
